@@ -1,0 +1,8 @@
+name: MordShops
+version: '${project.version}'
+main: me.billbominecraft.mordshops.MordShops
+api-version: 1.19
+commands:
+  gui:
+    description: Testing beech
+    usage: /<command>
